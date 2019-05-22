@@ -1,0 +1,33 @@
+﻿  Laivai.cpp
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(34): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(35): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(36): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(37): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(38): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(39): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(42): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\work\desktop\laivumusis\laivumusis\zaidejas.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\work\desktop\laivumusis\laivumusis\zaidejas.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\work\desktop\laivumusis\laivumusis\zaidejas.h(51): warning C4101: 'size': unreferenced local variable
+  Main.cpp
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(34): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(35): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(36): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(37): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(38): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(39): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(42): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\work\desktop\laivumusis\laivumusis\zaidejas.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\work\desktop\laivumusis\laivumusis\zaidejas.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\work\desktop\laivumusis\laivumusis\zaidejas.h(51): warning C4101: 'size': unreferenced local variable
+  Generating Code...
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(80): warning C4715: 'Lenta::idetiLaiva': not all control paths return a value
+  LaivuMusis.vcxproj -> C:\Users\Work\Desktop\LaivuMusis\Debug\LaivuMusis.exe
