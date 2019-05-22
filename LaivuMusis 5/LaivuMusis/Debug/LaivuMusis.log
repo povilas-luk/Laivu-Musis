@@ -1,0 +1,7 @@
+﻿  Laivai.cpp
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\work\desktop\laivumusis\laivumusis\lenta.h(80): warning C4715: 'Lenta::idetiLaiva': not all control paths return a value
+  LaivuMusis.vcxproj -> C:\Users\Work\Desktop\LaivuMusis\Debug\LaivuMusis.exe
